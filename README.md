@@ -14,8 +14,8 @@ The project is designed to help you understand and implement personalized recomm
 ```plaintext
 .
 ├── datasets/              # Real-world datasets for training and evaluation
-├── python_reco_system/    # Implementation using Python and traditional ML techniques
-├── llm_reco_system/       # Implementation using LLMs for recommendations
+├── AIRecoSystem.ipynb     # Implementation using Python and traditional ML techniques
+├── AIRecoSystem_LLM.ipynb # Implementation using LLMs for recommendations
 ├── README.md              # You're here!
 
 ```
