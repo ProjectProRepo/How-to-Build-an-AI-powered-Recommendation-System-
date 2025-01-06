@@ -18,8 +18,7 @@ The project is designed to help you understand and implement personalized recomm
 ├── llm_reco_system/       # Implementation using LLMs for recommendations
 ├── README.md              # You're here!
 
-''''
-
+```
 ## 🌟 Acknowledgments
 
 Special thanks to [shivam1808](https://github.com/shivam1808/Recommendation-System?tab=readme-ov-file) for inspiration for the Python-based recommendation system implementation.
