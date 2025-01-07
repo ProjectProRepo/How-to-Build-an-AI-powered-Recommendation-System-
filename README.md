@@ -1,6 +1,8 @@
 # How to Build an AI-Powered Recommendation System
 
-Welcome to the **How-to-Build-an-AI-powered-Recommendation-System** repository! 🎉 This repository provides a comprehensive guide to building recommendation systems using two powerful approaches:
+Welcome to the **How-to-Build-an-AI-powered-Recommendation-System** repository! 🎉 
+
+This repository provides a comprehensive guide to building recommendation systems using two powerful approaches:
 
 1. **Traditional Recommendation System in Python**
 2. **Recommendation System Cutting-edge Large Language Models (LLMs)**
