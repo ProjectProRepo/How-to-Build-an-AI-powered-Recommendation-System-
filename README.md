@@ -21,6 +21,9 @@ The project is designed to help you understand and implement personalized recomm
 ├── README.md              # You're here!
 
 ```
+
+For a detailed explanation of each step and the fundamentals, read the complete blog: [How to Build an AI-powered Recommendation System?](https://www.projectpro.io/article/how-to-build-an-ai-powered-recommendation-system/1084)
+
 ## 🌟 Acknowledgments
 
 Special thanks to [shivam1808](https://github.com/shivam1808/Recommendation-System?tab=readme-ov-file) for inspiration for the Python-based recommendation system implementation.
